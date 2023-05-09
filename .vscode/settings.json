@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "initializer_list": "c",
-        "type_traits": "c",
-        "xtree": "c",
-        "xutility": "c",
-        "map": "c"
-    }
-}
